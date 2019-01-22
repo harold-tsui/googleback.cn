@@ -1,4 +1,7 @@
 # googleback.cn
+
+http://googleback.cn
+
 谷歌于2010年03月23日关闭了CN域名
 
 谷歌何时才能够符合中国的法律，重启CN域名？
